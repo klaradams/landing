@@ -1,0 +1,19 @@
+.footer{
+  text-align: center;
+  background-color: #2c2b2b;
+  padding: 50px;
+}
+
+.links a{
+  color: #1EDD88;
+  letter-spacing: 10px;
+  font-size: 32px;
+}
+
+.links {
+  color: lightgrey;
+}
+
+.fas {
+  color: red;
+}

@@ -1,0 +1,15 @@
+.banner{
+background-image: url(../../images/background.png);
+background-size: cover;
+background-position: center;
+height: 180px;
+padding: 200px 0;
+justify-content: space-between;
+align-items: flex-start;
+color: white;
+}
+
+.banner p {
+  margin: 40px 0;
+  font-size: 20px;
+}

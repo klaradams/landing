@@ -1,0 +1,23 @@
+.cards{
+  display: flex;
+  margin: 30px 0;
+}
+
+.card{
+  background: white;
+  align-items: center;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  margin: 10px 10px;
+  /*height: 300px;*/
+  width: 500px;
+  text-align: center;
+  padding: 20px;
+}
+
+.card img{
+  height: 100px;
+}
+
+h2{
+  text-align: center;
+}
